@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veancaaa&label=Profile%20views&color=0e75b6&style=flat"
         alt="veancaaa" /> </p>
 
-- 🔭 I’m currently working on **Online Enrollment System**
+- 🔭 I’m currently working on **Web Application**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- ⚡ Fun fact **I am a Coffeeholic**
+
 
 <p>&nbsp</p>
 
@@ -51,8 +51,7 @@
 
 <p>&nbsp</p>
 
-[![GitHub activity
-graph](https://activity-graph.herokuapp.com/graph?username=veancaaa&&theme=tokyo-night)](https://github.com/veancaaa)
+
 
 <p><img width="50%"
         src="https://github-readme-stats.vercel.app/api?username=veancaaa&show_icons=true&locale=en&theme=tokyonight"
